@@ -6,7 +6,7 @@ I specialise in turning raw, messy data into clear insights, dashboards, and bus
 
 🔍 What I Do
 
-Analyse customer, sales, and marketing data to support decision-making
+Analyse customer, sales,spend and marketing data to support decision-making
 
 Build SQL queries and data models to answer business questions
 
