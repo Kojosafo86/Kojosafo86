@@ -83,6 +83,6 @@ Building a strong, practical analytics portfolio
 
 📫 Let’s Connect
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+LinkedIn: https://www.linkedin.com/in/Kojo Safo
 
 GitHub: https://github.com/Kojosafo86
