@@ -4,7 +4,7 @@ Data Analyst with hands-on experience delivering end-to-end analytics projects a
 
 I specialise in turning raw, messy data into clear insights, dashboards, and business recommendations using SQL, Python, R, and Power BI.
 
-🔍 What I Do
+What I Do
 
 Analyse customer, sales,spend and marketing data to support decision-making
 
@@ -16,7 +16,7 @@ Perform exploratory, statistical, and predictive analysis
 
 Communicate insights clearly to non-technical stakeholders
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 SQL (PostgreSQL) – querying, joins, CTEs, window functions
 
@@ -61,7 +61,7 @@ Built linear and multiple regression models to predict global sales
 
 Delivered business recommendations supported by data
 
-👉 Repository: turtle-games-advanced-analytics
+Repository: turtle-games-advanced-analytics
 
 📈 How I Add Value
 
@@ -73,7 +73,7 @@ Work across the full analytics lifecycle: data → insight → recommendation
 
 Communicate results through code, dashboards, reports, and presentations
 
-🎯 Currently Focused On
+Currently Focused On
 
 Advanced SQL for analytics
 
@@ -81,7 +81,7 @@ Power BI storytelling and dashboard design
 
 Building a strong, practical analytics portfolio
 
-📫 Let’s Connect
+Let’s Connect
 
 LinkedIn: https://www.linkedin.com/in/Kojo Safo
 
